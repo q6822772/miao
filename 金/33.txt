@@ -1,8 +1,8 @@
 ﻿{
 "wallpaper":"http://ys-n.ysepan.com/402242426/218354704/j49633455FKQ8jI353241/%E7%BE%8E%E8%85%BF.png",
 "spider": "https://raw.githubusercontent.com/q6822772/miao/main/%E9%87%91/nf1026.jar",
-//"spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
-//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+//"spider":"https://notabug.org/6822772/oo/raw/master/FM1020.jar",
+//"spider":"https://raw.githubusercontent.com/q6822772/miao/main/%E9%87%91/xm1020.jar",
 //"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
 //〓〓〓接口地址〓〓〓〓〓〓
 "warningText":"生哥接口完全免费，主页菜单键可换其他站点观看，切勿付费购买！",
