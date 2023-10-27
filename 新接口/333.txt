@@ -1,8 +1,8 @@
 {
 "wallpaper":"http://ys-n.ysepan.com/402242426/218354704/j49633455FKQ8jI353241/%E7%BE%8E%E8%85%BF.png",
-//"spider":"https://notabug.org/6822772/oo/raw/master/FM1020.jar",
 "spider": "https://ghps.cc/https://raw.githubusercontent.com/q6822772/miao/main/%E9%87%91/nf1026.jar",
 "spider":"https://notabug.org/6822772/oo/raw/master/Yoursmile.jar",
+//"spider":"https://notabug.org/6822772/oo/raw/master/FM1020.jar",
 //"spider":"https://pan.shangui.cc/f/ky5aSR/XM1023.jar",
 //〓〓〓接口地址〓〓〓〓〓〓
 "warningText":"生哥接口完全免费，主页菜单键可换其他站点观看，切勿付费购买！",
@@ -406,50 +406,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-
-{"key":"csp_WoGG","name": "🚛玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ali.jar"},
-//{"key":"t4_wo","name":"🚛玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1,"filterable":1,"jar":"./ali.jar"},
-    {
-      "key": "♻️玩偶♻️",
-      "name": "♻️玩偶哥哥|4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "aHR0cDovLzEyNy4wLjAuMTo5OTc4L2ZpbGUv0rXT4NOwytMvsKLA7y90b2tlbi50eHQ=",
-        "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
-        "danmu": false
-      },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
-    },
-    {
-      "key": "玩偶弹幕版",
-      "name": "♻️玩偶哥哥弹幕版|4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "aHR0cDovLzEyNy4wLjAuMTo5OTc4L2ZpbGUv0rXT4NOwytMvsKLA7y90b2tlbi50eHQ=",
-        "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
-        "danmu": true
-      },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
     },
     {
       "key": "Qtv",
