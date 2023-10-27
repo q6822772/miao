@@ -2,19 +2,19 @@
   "name": "韩剧佬",   //填网站名称
   "tihuan": "cnzz.com", 
 //------填网站链接
-  "url": "http://www.hanjulao.com",  
+  "url": "https://www.hanjulao.com",  
   "shouye": "1",
 //------网站列表的分类
   "fenlei": "电影$/show/1--------#电视剧$/show/2--------#综艺$/show/3--------#动作片$/show/6--------#喜剧片$/show/7--------#爱情片$/show/8--------#科幻片$/show/9--------#恐怖片$/show/10--------#剧情片$/show/11--------#战争片$/show/12--------#动画片$/show/24--------#国产剧$/show/22--------#港台剧$/show/14--------#韩国剧$/show/13--------#日本剧$/show/15--------#欧美剧$/show/16--------#泰国剧$/show/20--------",
 //------网站翻页链接的后缀
   "houzhui": "---.html",   
-  "shifouercijiequ": "0",
-  "jiequqian": "空",
-  "jiequhou": "空",
+  "shifouercijiequ": "1",
+  "jiequqian": "class=\"col-xs-4 col-lg-3 col-xl-2"
+  "jiequhou": "<ul class=\"ewave-page text-center clearfix",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class=\"myui-vodlist__box\"",   
+  "jiequshuzuqian": "<div class=\"vod-item\">",   
 //------ //截取的列表数组的后关键词
-  "jiequshuzuhou": "</span>",
+  "jiequshuzuhou": "</div>",
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"",
 //------//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
@@ -24,10 +24,10 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
 //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuoqian": "/search/-------------.html?wd=",
   "sousuohou": "&limit=500",
 //------搜索页影片跳转详情页的中间标识链接部分
-  "sousuohouzhui": "/vod/",
+  "sousuohouzhui": "/hj/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -47,7 +47,7 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
 //播放截取的列表数组的前关键词
-  "bfjiequshuzuqian": "class=\"myui-content__list",
+  "bfjiequshuzuqian": "class=\"row",
 //播放截取的列表数组的后关键词
   "bfjiequshuzuhou": "</ul>",
 //------下面的是详情内容可以不动
