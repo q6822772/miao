@@ -1,9 +1,9 @@
 {
 "wallpaper":"http://ys-n.ysepan.com/402242426/218354704/j49633455FKQ8jI353241/%E7%BE%8E%E8%85%BF.png",
-"spider": "https://ghps.cc/https://raw.githubusercontent.com/q6822772/miao/main/%E9%87%91/fm1020.jar",
-//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-//"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar",
+"spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A038A59767F06E266A4099C3D2DF4693",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f",
+"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
 
 //〓〓〓接口地址〓〓〓〓〓〓
 "warningText":"生哥接口完全免费，主页菜单键可换其他站点观看，切勿付费购买！",
@@ -409,49 +409,6 @@
       "filterable": 1
     },
 
-{"key":"csp_WoGG","name": "🚛玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ali.jar"},
-//{"key":"t4_wo","name":"🚛玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1,"filterable":1,"jar":"./ali.jar"},
-    {
-      "key": "♻️玩偶♻️",
-      "name": "♻️玩偶哥哥|4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "aHR0cDovLzEyNy4wLjAuMTo5OTc4L2ZpbGUv0rXT4NOwytMvsKLA7y90b2tlbi50eHQ=",
-        "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
-        "danmu": false
-      },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
-    },
-    {
-      "key": "玩偶弹幕版",
-      "name": "♻️玩偶哥哥弹幕版|4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "aHR0cDovLzEyNy4wLjAuMTo5OTc4L2ZpbGUv0rXT4NOwytMvsKLA7y90b2tlbi50eHQ=",
-        "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
-        "danmu": true
-      },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
-    },
     {
       "key": "Qtv",
       "name": "🐧┃企鹅┃官源",
