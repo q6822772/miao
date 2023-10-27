@@ -1,9 +1,10 @@
 {
 "wallpaper":"http://ys-n.ysepan.com/402242426/218354704/j49633455FKQ8jI353241/%E7%BE%8E%E8%85%BF.png",
-"spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A038A59767F06E266A4099C3D2DF4693",
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f",
-"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+"spider":"https://notabug.org/6822772/oo/raw/master/FM1020.jar",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+"spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar",
+"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar",
+
 
 //〓〓〓接口地址〓〓〓〓〓〓
 "warningText":"生哥接口完全免费，主页菜单键可换其他站点观看，切勿付费购买！",
