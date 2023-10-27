@@ -1,9 +1,10 @@
 {
 "wallpaper":"http://ys-n.ysepan.com/402242426/218354704/j49633455FKQ8jI353241/%E7%BE%8E%E8%85%BF.png",
-"spider":"https://notabug.org/6822772/oo/raw/master/FM1020.jar",
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-"spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar",
-"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar",
+"spider": "https://ghps.cc/https://raw.githubusercontent.com/q6822772/miao/main/%E9%87%91/fty.jar",
+//"spider":"https://notabug.org/6822772/oo/raw/master/FM1020.jar",
+//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+//"spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar",
+//"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar",//可全部
 
 
 //〓〓〓接口地址〓〓〓〓〓〓
