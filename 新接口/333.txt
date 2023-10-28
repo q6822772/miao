@@ -96,7 +96,7 @@
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
     },
 { "key":"短剧","name":"短剧💰2K", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"http://52bsj.vip:81/api/v3/file/get/170600/maolv.jar?sign=447fTXiVoQQO0i7eGBbz4ZwBmyk4saWls8iuCxwAoqI%3D%3A0"},
-//{ "key": "玩偶内置", "name": "💰玩偶内置💰", "type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"},
+
     {
       "key": "一起看 ",
       "name": "💰一起看💰",
