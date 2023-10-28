@@ -3,7 +3,7 @@
 {"url":"https://wds.ecsxs.com/224066.txt",
 "name":"〓金多宝〓"},
 
-{"url":"https://pan.shangui.cc/f/jkVeu7/333.txt",
+{"url":"https://raw.githubusercontent.com/q6822772/miao/main/%E6%96%B0%E6%8E%A5%E5%8F%A3/333.txt",
 "name":"〓💰备用💰〓"},
 
 {"url":"http://肥猫.love",
