@@ -16,24 +16,16 @@
 
 {"key": "csp_77","name": "③生哥③","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
 
+
     {
-      "key": "csp_woggcli",
-      "name": "💰玩偶内置💰",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },    
-    {
-      "key": "csp_WoGG",
-      "name": "玩偶💰4K(弹幕)",
+      "key": "玩偶哥哥",
+      "name": "💰玩偶💰4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹幕"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "Mino",
