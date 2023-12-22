@@ -1,7 +1,6 @@
 ﻿{
 "wallpaper":"http://ys-n.ysepan.com/402242428/218354710/o76344532KNNTjI353259/%E6%98%9F%E7%A9%BA.png",
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",//第一包
-"spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",//第二包
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 //"spider": "https://notabug.org/6822772/oo/raw/master/xm1029.jar",
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider": "https://ghps.cc/https://raw.githubusercontent.com/q6822772/miao/main/%E9%87%91/fty.jar",
@@ -13,7 +12,6 @@
 
 "sites": [    
 
-{"key": "xpg","name": "💰生哥💰（👉永久免费,部分网站采集有广告💰勿信）💑","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://codeberg.org/0033/30/raw/branch/main/zz.txt"},  
 
 {"key":"南瓜","name":"🎃南瓜💰","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
@@ -102,6 +100,7 @@
 
 {"key": "csp_77","name": "③生哥③","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
 //{"key": "七七","name": "③生哥③","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "xpg","name": "💰生哥💰（👉永久免费,部分网站采集有广告💰勿信）💑","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://codeberg.org/0033/30/raw/branch/main/zz.txt"},  
 
  {
       "key": "348",
@@ -187,9 +186,9 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
     },
 
-//{"key": "csp_FanYY","name": "💰玩偶影视💰","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
+{"key": "csp_FanYY","name": "💰玩偶影视💰","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
 
- //{"key": "csp_WoGG","name": "玩偶💰4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+ {"key": "csp_WoGG","name": "玩偶💰4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 
     {
       "key": "辣辣",
