@@ -1,5 +1,5 @@
 ﻿{
-"wallpaper":"http://ys-n.ysepan.com/402242428/218354710/o76344532KNNTjI353259/%E6%98%9F%E7%A9%BA.png",
+"wallpaper":"http://ys-d.ysepan.com/402242439/218393919/iuwIgXr55557I3X7LM66ec/%E9%BB%91%E5%A4%9C.jpg",
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 //"spider": "https://notabug.org/6822772/oo/raw/master/xm1029.jar",
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
