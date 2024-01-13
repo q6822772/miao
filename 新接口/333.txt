@@ -1,6 +1,6 @@
 {
 "wallpaper":"http://ys-n.ysepan.com/402242428/218354710/o76344532KNNTjI353259/%E6%98%9F%E7%A9%BA.png",
-"spider": "https://ghps.cc/https://raw.githubusercontent.com/q6822772/miao/main/%E9%87%91/xm1029.jar",
+"spider": "http://ys-j.ysepan.com/402242457/218400150/mF2673m8J33546S38P6KSf4/fan.txt",
 //"spider": "https://notabug.org/6822772/oo/raw/master/xm1029.jar",
 //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
