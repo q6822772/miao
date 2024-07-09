@@ -866,7 +866,7 @@
 
 //金直播
 //"lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIyNzgxMi50eHQ="]}]}],
-"lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=http://ys-l.ysepan.com/402242468/218491447/l7H2K5513LPI5SiG6552f2/xx.txt"]}]}],
 
 
 //〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓解析设置〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
