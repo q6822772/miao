@@ -27,7 +27,6 @@ var rule = {
 	}],
 	lazy:'',
 	limit:6,
-	推荐:'',
 	推荐:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = [];
@@ -94,10 +93,10 @@ let tabse = false;
 let tabm3u8 = [];
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
-	if (burl.startsWith("https://www.aliyundrive.com/s/")){
-		tabsa.push("阿里云盤");
+	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
+		tabsa.push("阿里雲盤");
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		tabsq.push("夸克云盤");
+		tabsq.push("夸克網盤");
 	}else if (burl.startsWith("magnet")){
 		tabsm = true;
 	}else if (burl.startsWith("ed2k")){
@@ -151,7 +150,7 @@ d.forEach(function(it){
 	log('xb6v title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 	log('xb6v burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
-	if (burl.startsWith("https://www.aliyundrive.com/s/")){
+	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
 		if (true){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
@@ -181,42 +180,6 @@ d.forEach(function(it){
 		liste.push(loopresult);
 	}
 });
-if (false){
-d = pdfa(html, 'div:has(>div#post_content) div.widget:has(>h3)');
-d.forEach(function(it){
-	let index = pdfh(it, 'h3&&Text');
-	let burl = pd(it, 'a&&href', HOST);
-	let title = pdfh(it, 'a&&Text');
-	log('xb6v title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-	log('xb6v burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
-	let m3u8_html = request(burl);
-	let playerUrl = pd(m3u8_html, 'div.video&&iframe&&src', HOST);
-	log('xb6v playerUrl >>>>>>>>>>>>>>>>>>>>>>>>>>' + playerUrl);
-	if (!listm3u8.hasOwnProperty(index)){
-		listm3u8[index] = [];
-	}
-	let loopresult = title + '$' + ' ';
-	if (/(\\/player\\/|\\/share\\/)/.test(playerUrl)){
-		let player_html = request(playerUrl);
-		let m3u8Url="";
-		try{
-			m3u8Url = player_html.match(/'([^']*.m3u8)'/)[1];
-		}catch(e){
-			try{
-				m3u8Url = player_html.match(/"([^"]*.m3u8)"/)[1];
-			}catch(e){
-				m3u8Url = "";
-			}
-		}
-		if (m3u8Url !== ""){
-			m3u8Url = urljoin2(playerUrl, m3u8Url);
-			log('xb6v m3u8Url >>>>>>>>>>>>>>>>>>>>>>>>>>' + m3u8Url);
-			loopresult = title + '$' + m3u8Url;
-		}
-	}
-	listm3u8[index].push(loopresult);
-});
-}
 if (listm.length>0){
 	LISTS.push(listm);
 }
@@ -256,9 +219,9 @@ let search_html = request( HOST + '/e/search/index.php', _fetch_params, true);
 let d=[];
 let dlist = pdfa(search_html, 'div.mainleft&&ul#post_container&&li');
 dlist.forEach(function(it){
-	let title = pdfh(it, 'div.thumbnail img&&alt');
+	let title = pdfh(it, 'div.thumbnail img&&alt').replace( /(<([^>]+)>)/ig, '');
 	if (searchObj.quick === true){
-		if (title.includes(KEY)){
+		if (false && title.includes(KEY)){
 			title = KEY;
 		}
 	}
