@@ -90,6 +90,8 @@
 {"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
 "name":"〓99git〓"},
 
+{"url":"aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3E2ODIyNzcyL21pYW8vbWFpbi8lRTYlOTYlQjAlRTYlOEUlQTUlRTUlOEYlQTMvdnYudHh0",
+"name":"〓gitv〓"},
 
 {"url":"https://tv.xn--yhqu5zs87a.top",
 "name":"〓菜妮丝〓"},
