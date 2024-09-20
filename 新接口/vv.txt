@@ -9,16 +9,6 @@
 "sites": [    
 
     {
-      "key": "*博天堂",
-      "name": "*博天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-{"key": "cjzy_无尽资源","name": "无尽资源","type": 1, "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list"},
-//{"key": "cjzy_无尽资源","name": "无尽卧龙","type": 1,"api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list"},
-    {
       "key": "美少女",
       "name": "美少女",
       "type": 0,
@@ -26,6 +16,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "老鸭",
+      "name": "老鸭",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "*饮水机资源",
@@ -54,6 +53,49 @@
       "quickSearch": 1,
       "filterable": 0
     },
+  {
+      "key": "老鸭",
+      "name": "❤️新鸭采集",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "自拍偷拍",
+        "国产传媒",
+        "海外明星",
+        "变态另类",
+        "巨乳美乳",
+        "中文字幕",
+        "动漫精品",
+        "熟女人妻",
+        "日本无码",
+        "日本有码"
+]
+    },
+        {
+      "key": "鸡坤资源",
+      "name": "💓鸡坤采集",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+    {
+      "key": "*博天堂",
+      "name": "*博天堂",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+{"key": "cjzy_无尽资源","name": "无尽资源","type": 1, "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list"},
+//{"key": "cjzy_无尽资源","name": "无尽卧龙","type": 1,"api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list"},
+
     {
       "key": "快AV资源",
       "name": "快AV资源",
@@ -103,15 +145,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "老鸭",
-      "name": "老鸭",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
     {
       "key": "zp123",
       "name": "铯猫资源（慢）",
